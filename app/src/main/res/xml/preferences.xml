@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="enable_sign_when_device_locked_by_keyguard"
+        android:title="デバイスがロックされていても署名を許可する" />
+ 
+    <CheckBoxPreference
+        android:key="enable_bluetooth_when_startup"
+        android:title="起動時blueoothをenableにする" />
+ 
+    <CheckBoxPreference
+        android:key="on_off_preference"
+        android:title="Check Status" />
+ 
+    <EditTextPreference
+        android:key="text_value_preference"
+        android:title="Text Value" />
+ 
+</PreferenceScreen>

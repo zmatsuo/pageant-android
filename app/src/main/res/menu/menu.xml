@@ -1,0 +1,27 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/GENERATE_KEY"
+        android:title="Generate Key"
+    />
+
+    <item
+        android:id="@+id/IMPORT_KEY"
+        android:title="Import Key"
+    />
+
+    <item
+        android:id="@+id/REMOVE_KEY"
+        android:title="Remove Key"
+    />
+
+    <item
+        android:id="@+id/LIST_KEY"
+        android:title="List Key"
+    />
+
+    <item
+        android:id="@+id/SETTING"
+        android:title="設定"
+    />
+</menu>
